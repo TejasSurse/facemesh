@@ -67,10 +67,3 @@ To set up and run this project locally, follow these steps:
 - ⚙️ Optimize the performance for low-end devices.
 - 📱 Add support for mobile devices.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version adds visual elements that make the README more engaging and user-friendly. You can further customize the icons and badges as per your project's needs.
